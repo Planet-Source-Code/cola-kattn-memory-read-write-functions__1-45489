@@ -1,0 +1,17 @@
+(These offsets are only in an compiled .EXE of the Trainme program!)
+Remember that the window name is "Trainme" (without the quotes)
+
+Beacuse of the fact that a program's memory offsets differs between
+windows versions I have only been able to find offsets for Windows 98se and Windows ME.
+
+So here are the offsets for Win98SE:
+Byte variable:    00510478
+Integer variable: 0051047A
+Long variable:    0051047C
+
+And WinME:
+Byte variable:    00510458
+Integer variable: 0051045A
+Long variable:    0051045C
+
+
